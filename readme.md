@@ -47,4 +47,4 @@ It represents my personal learning process while studying the book, and is meant
 
 If you’d like to discuss operating systems, systems programming, or related projects, feel free to reach out:
 
-**GitHub:** https://github.com/synbat-d
+**GitHub:** https://github.com/synbat-d **Telegram:** @synbat_d
